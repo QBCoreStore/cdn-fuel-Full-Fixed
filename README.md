@@ -1,3 +1,4 @@
+![QBCore Store Fuel Script Banner](https://i.imgur.com/qVOMMvW.png)
 
 # CDN-Fuel (2.0.0 Beta) 
 
@@ -22,7 +23,7 @@ Major shoutout to the Project Sloth team. We based this script off of their wond
 <br>
 <br>
 
-![Codine Development Fuel Script Install Banner](https://i.imgur.com/bEiV8G0.png)
+![QBCore Store Fuel Script Install Banner](https://i.imgur.com/bEiV8G0.png)
 
 ### Begin your installation
 
@@ -293,7 +294,7 @@ Enjoy using **cdn-fuel**, if you have an issues, create an issue on the reposito
 <br>
 <br>
 
-![Codine Development Fuel Script Features Banner](https://i.imgur.com/ISHQJUL.png)
+![QBCore Store Fuel Script Features Banner](https://i.imgur.com/ISHQJUL.png)
 
 #### Some features to mention within cdn-fuel:
 
@@ -309,7 +310,7 @@ Enjoy using **cdn-fuel**, if you have an issues, create an issue on the reposito
 - On cancel, the amount you put in will be filled.
 - Option to pay cash or with your bank.
 - Toggleable Jerry Cans via Config Options.
-- [CDN-Syphoning](https://github.com/CodineDev/cdn-syphoning) built-in via Config Options.
+- [CDN-Syphoning](https://github.com/QBCore#4011Dev/cdn-syphoning) built-in via Config Options.
 - Electric Charging with a [Custom Model](https://i.imgur.com/WDxGoT6.png) & pre-configured locations.
 - [Player Owned Gas Stations](https://www.youtube.com/watch?v=3glln0S2QXo) that can be maintained by the Owner.
 - [Highly User Friendly Menus](https://i.imgur.com/f64IxpA.png) for Gas Station Owners.
@@ -319,7 +320,7 @@ Enjoy using **cdn-fuel**, if you have an issues, create an issue on the reposito
 <br>
 <br>
 
-![Codine Development Fuel Script Showcase Banner](https://i.imgur.com/HQOH3AX.png)
+![QBCore Store Fuel Script Showcase Banner](https://i.imgur.com/HQOH3AX.png)
 
 ### Demonstration of the script
 
@@ -333,7 +334,7 @@ Here's a couple of videos showcasing the script in action!
 <br>
 <br>
 
-![Codine Development Fuel Script Future Plans Banner](https://i.imgur.com/1RoBsmo.png)
+![QBCore Store Fuel Script Future Plans Banner](https://i.imgur.com/1RoBsmo.png)
 
 ### Future Plans
 
@@ -344,10 +345,10 @@ Here's a couple of videos showcasing the script in action!
 <br>
 <br>
 
-![Codine Development Links Banner](https://i.imgur.com/SAqArzg.png)
+![QBCore Store Links Banner](https://i.imgur.com/SAqArzg.png)
 
-### Codine Links
+### QBCore#4011 Links
 
-- [Discord](https://discord.gg/qbcoreframework)
-- [Discord] - QBCore#4011
+- [Discord](https://discord.gg/Ta6QNnuxM2)
 
+- [Youtube](https://www.youtube.com/channel/UCqVDWjLrwFu4zZ1sW3RguDA)
