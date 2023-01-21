@@ -349,6 +349,6 @@ Here's a couple of videos showcasing the script in action!
 
 ### QBCore#4011 Links
 
-- [Discord](https://discord.gg/Ta6QNnuxM2)
+- [Discord](https://discord.gg/qbcoreframework)
 
 - [Youtube](https://www.youtube.com/channel/UCqVDWjLrwFu4zZ1sW3RguDA)
