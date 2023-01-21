@@ -348,11 +348,6 @@ Here's a couple of videos showcasing the script in action!
 
 ### Codine Links
 
-- [Discord](https://discord.gg/Ta6QNnuxM2)
-- [Tebex](https://codine.tebex.io/)
-- [Youtube](https://www.youtube.com/channel/UC3Nr0qtyQP9cGRK1m25pOqg)
+- [Discord](https://discord.gg/qbcoreframework)
+- [Discord] - QBCore#4011
 
-### Credits:
-
-Massive shoutout once again to the team at [Project Sloth](https://github.com/Project-Sloth)! <br><br> They create super sick scripts that have changed the game when it comes to fivem server development.
-This script is based off of their [ps-fuel script](https://github.com/Project-Sloth/ps-fuel).
